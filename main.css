@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
+body{
+  background-color: black ;
+  font-family: 'Bebas Neue', cursive;
+
+
+
+
+}
+body .titre{
+  color: red;
+  font-size: 100px;
+}
+body .phrase{
+  color: white;
+  font-size: 110px;
+}
+body .dieu{
+  font-size:60px;
+  color: white;
+}
+body .zizi{
+  font-size:60px;
+  color: white;
+}
+body .ok{
+  font-size:30px;
+  color: white;
+}
+body   .msg{
+  font-size: 30px;
+  color: white;
+}
+body   .nom{
+  font-size: 40px;
+  color: red;
+}
+header {
+  font-size: 60px ;
+  background-color: black ;
+  font-family: 'Bebas Neue', cursive;
+  color: white;
+}
